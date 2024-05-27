@@ -1,0 +1,18 @@
+.contient_billet
+{
+	width: 90%;
+	max-width: 500px;
+	color: white;
+}
+
+.contient_titre
+{
+	width: 100%;
+	background-color: black;
+}
+
+.contient_contenu
+{
+	width: 100%;
+	background-color: gray;
+}
